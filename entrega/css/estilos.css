@@ -1,0 +1,95 @@
+@font-face {
+    font-family: miFuente;
+    src: url(../fuentes/CormorantGaramond-SemiBoldItalic.ttf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: miFuente;
+    src: url(../fuentes/CormorantGaramond-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: miFuente;
+    src: url(../fuentes/CormorantGaramond-Light.ttf);
+    font-weight: 300;
+}
+
+
+body {
+    background-color: rgb(203, 203, 203);
+    font-family: miFuente;
+    background-image: url(../imagen/fondo-10.jpg);
+    background-size: 100%;
+
+
+    
+    
+}
+
+h1{ 
+    font-family: miFuente;
+    font-weight: 800;
+    font-size: 60px;
+    width: 400px;
+    margin: 55px;
+    letter-spacing: 1px;
+    bottom: -100px;
+    margin-top: 90px;
+    text-align:left;
+    text-align:justify;
+    position: relative;
+
+
+}
+h2{ 
+    font-family: miFuente;
+    font-weight: 800;
+    font-size: 60px;
+    letter-spacing: 1px;
+    margin: 200px;
+    margin-left: 380px;
+    bottom: -25px;
+    margin-top: 40px;
+    text-align:left;
+    text-align:justify;
+    position: relative;
+
+}
+
+
+p { font-family: miFuente;
+    font-weight: 300;
+    font-size: 18px;
+    margin-left: 620px;
+    margin-right: 100px;
+    bottom: 150px;
+    text-align:left;
+    text-align:justify;
+    position: relative;
+
+    letter-spacing:1px;
+    line-height: 110%;
+  
+     
+}
+
+p2 {
+    font-family: miFuente;
+    font-weight: 400;
+    position: relative;
+    bottom: 610px;
+    right: -630px;
+    text-align:right;
+    text-align:justify;
+    font-size: 23px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    width: 300px;
+    margin: 20px;
+
+}
+   
+   
+
